@@ -27,7 +27,7 @@ I make elegantly professional **📱 iOS apps, 💻 Distributed Systems and 🌏
 By the way, I love Apple products, so I'm a iOS Dev.👨🏻‍💻 & Apple Teacher.🤪
 
 <p  align="center">
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="./icons/AppleTeacherSwiftPlaygrounds_black.svg"/></a>
+<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/AppleTeacherSwiftPlaygrounds_black.svg"/></a>
 </p>
   
 <p  align="center">
