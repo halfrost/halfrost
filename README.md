@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I make elegantly professional **📱 iOS apps, 💻 Distributed Systems and 🌏 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional **📱 iOS apps, 💻 Distributed Systems and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at Alibaba Group.
