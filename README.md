@@ -14,6 +14,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 📬   ydz627@gmail.com
 * ✍🏻   I write my personal thoughts on Programming & Tech on on my [Personal Blog](https://github.com/halfrost/Halfrost-Field/).
 
+## Get in touch
+
 🕵 Take a look at my repositories and let's get in touch!
 
 <p align="center">
@@ -24,7 +26,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 </p>
 
            
-By the way, I love Apple products, so I'm a iOS Dev.👨🏻‍💻 & Apple Teacher.🤪
+By the way, I love Apple products, so I'm a Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
 <p  align="center">
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/AppleTeacherSwiftPlaygrounds_black.svg"/></a>
