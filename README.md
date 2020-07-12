@@ -12,7 +12,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [LinkedIn](https://linkedin.com/in/half-frost).
 * 📬   ydz627@gmail.com
-* ✍🏻   I write my personal thoughts on Programming & Tech on on my [Personal Blog](https://github.com/halfrost/Halfrost-Field/).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://github.com/halfrost/Halfrost-Field/).
 
 ## Get in touch
 
