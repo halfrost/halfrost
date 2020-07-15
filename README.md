@@ -12,7 +12,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [LinkedIn](https://linkedin.com/in/half-frost).
 * 📬   ydz627@gmail.com
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://github.com/halfrost/Halfrost-Field/)(Cumulative 2.23 million PV / 1.12 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://github.com/halfrost/Halfrost-Field/)(Cumulative 2.26 million PV / 1.12 million UV).
 
 ## Get in touch
 
