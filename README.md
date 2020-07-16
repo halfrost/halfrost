@@ -5,6 +5,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at Alibaba Group.
 * 🎓   Bachelor of Engineering in Computer Science and Engineering, GPA 3.82/4.0, TOP 3%.
+* 🎖   Professional Membership of ACM / CCF / IEEE.
 * 🌱   Currently learning Math & Philosophy.
 * 💬   Do read my resume here: [Resume](https://linkedin.com/in/half-frost)
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
