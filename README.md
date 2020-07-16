@@ -12,7 +12,6 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 🎉   Let's connect on [LinkedIn](https://linkedin.com/in/half-frost).
-* 📬   ydz627@gmail.com
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://github.com/halfrost/Halfrost-Field/)(Cumulative 2.26 million PV / 0.63 million UV).
 
 ## Get in touch
