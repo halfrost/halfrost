@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_white.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
@@ -12,7 +12,6 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* 🎉   Let's connect on [LinkedIn](https://linkedin.com/in/half-frost).
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://github.com/halfrost/Halfrost-Field/)(Cumulative 2.26 million PV / 0.63 million UV).
 
 <details>
@@ -22,13 +21,13 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
 * 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
+<p align="center">
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-
-<p align="center">
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true" alt="halfrost's Github Stats" />
 </p>
 
