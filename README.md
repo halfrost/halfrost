@@ -28,7 +28,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&theme=radical&hide_langs_below=1&theme=default&line_height=27" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&line_height=27" alt="halfrost's Github Stats" />
 </p>
 
