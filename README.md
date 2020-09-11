@@ -14,7 +14,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.10 million PV / 0.74 million UV).
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Some other achievements about me~e~e</summary>
   <br>
 
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
