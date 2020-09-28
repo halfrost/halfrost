@@ -26,6 +26,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
+<a href= "https://www.youracclaim.com/badges/b6257c8a-6906-4555-9951-3b92f8918052/public_url"><img src="https://github.com/halfrost/halfrost/blob/master/icons/WES.png" height="100" width="100"/></a>
 </p>
 
 <p align="center">
