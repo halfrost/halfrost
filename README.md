@@ -11,7 +11,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.20 million PV / 0.84 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.28 million PV / 0.84 million UV).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
