@@ -1,0 +1,12 @@
+{
+  "name": "2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "halfrost",
+  "license": "MIT",
+  "dependencies": {
+    "@types/matter-js": "^0.14.4",
+    "matter-js": "^0.14.2",
+    "poly-decomp": "^0.3.0"
+  }
+}
