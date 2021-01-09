@@ -29,6 +29,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <a href= "https://www.youracclaim.com/badges/b6257c8a-6906-4555-9951-3b92f8918052/public_url"><img src="https://github.com/halfrost/halfrost/blob/master/icons/WES.png" height="100" width="100"/></a>
 </p>
 
+* 🏅   Some github statistical reports:
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
