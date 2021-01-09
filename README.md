@@ -28,7 +28,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
-* 👑   Some github statistical reports:
+* 👑   Some GitHub statistical reports:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
