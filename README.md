@@ -11,16 +11,18 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 5.45 million PV / 2.23 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.48 million PV / 4.24 million UV).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
+* 💖   Be proud of CMU. My heart is in the work. 
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
 * 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
 <p align="center">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
