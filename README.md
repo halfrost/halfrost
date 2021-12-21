@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional **💻 Distributed Infrastructure, 📱 Dapp 🪙 DeFi and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Staff Engineer at Binance.com.
