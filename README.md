@@ -1,17 +1,17 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
+* 💼   Staff Engineer at Binance.com.
 * 🎓   Master of Science in Computer Science, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
+* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
+* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.48 million PV / 4.24 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.55 million PV / 4.26 million UV).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
