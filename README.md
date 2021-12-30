@@ -17,7 +17,7 @@ I make elegantly professional **💻⎈🐳 Distributed Infrastructure, 📱 Dap
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 💖   Be proud of CMU. My heart is in the work. 
+* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
 * 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
