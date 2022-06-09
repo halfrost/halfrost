@@ -2,7 +2,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional **💻⎈🐳 Distributed Infrastructure, 📱 Dapp 🪙 NFT and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / kubernetes**, ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on Infra.
 * 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
@@ -11,7 +11,7 @@ I make elegantly professional **💻⎈🐳 Distributed Infrastructure, 📱 Dap
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.55 million PV / 4.26 million UV).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
