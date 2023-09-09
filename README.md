@@ -23,7 +23,7 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
 <p align="center">
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100"/></a>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
