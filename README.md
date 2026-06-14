@@ -21,7 +21,7 @@ I am a **research-oriented machine learning systems engineer** working on **foun
 * 🌲   Be proud of Stanford University. ❤️ Proud Stanford Cardinal. Die Luft der Freiheit weht.
 * 🧣   Be proud of Carnegie Mellon University. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work.
 * 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF / Sigma Xi.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
+* 🍎   Apple Developer.👨🏻‍💻 & [Apple Teacher](https://img.halfrost.com/certificate/AppleTeacher.pdf).🤪
 
 <p align="center">
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/berkeley.png" height="100" width="100"/>
@@ -32,7 +32,6 @@ I am a **research-oriented machine learning systems engineer** working on **foun
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/sigma-xi.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
 * 📊   Open-source activity and repository highlights:
