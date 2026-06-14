@@ -1,38 +1,41 @@
-# Hello there 👋
+# Machine Learning Systems, Alignment, and Evaluation
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+I am a **research-oriented machine learning systems engineer** working on **foundation model infrastructure, alignment, and evaluation**. I build efficient and reliable systems for large language models while studying the algorithms and data choices that make them more useful, controllable, and cost-effective in real applications.
 
-* 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+* 🧐   My central research interest is **model-system co-design**: understanding how model architecture, inference algorithms, data curation, hardware utilization, scheduling, and distributed runtimes interact.
+* 💼   At **TikTok**, I work on Model-as-a-Service platforms and high-performance LLM inference, developing production serving infrastructure with **vLLM** and **SGLang**.
+* 🎓   My recent research includes distributed disaggregated inference, preference optimization, instruction-tuning data selection, multimodal evaluation, and retrieval-augmented biomedical summarization.
+* 🌱   I investigate alignment and evaluation methods that connect measurable model behavior with real-world usefulness, controllability, reliability, and serving cost.
+* 📚   My systems work spans model runtime integration, scheduling and continuous batching, KV-cache and memory management, distributed execution, observability, and reliability.
+* 💻   My broader research experience includes reinforcement learning for robotics, healthcare sequence modeling, privacy-preserving machine learning, and motion planning.
+* ⛵   I am interested in collaborating on open research and infrastructure that make frontier AI systems faster to experiment with, more rigorous to evaluate, and dependable at scale.
+* ✍🏻   I share technical writing on machine learning systems, infrastructure, and software engineering through my [personal blog](https://halfrost.com/).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
-* 💖   Be proud of CMU. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work. 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
+* 💙💛   Be proud of the University of California, Berkeley. 🐻 Proud California Golden Bear. Fiat Lux ✨ Go Bears.
+* 🌲   Be proud of Stanford University. ❤️ Proud Stanford Cardinal. Die Luft der Freiheit weht.
+* 🧣   Be proud of Carnegie Mellon University. 🐾 Proud Carnegie Mellon Tartan. My heart is in the work.
+* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF / Sigma Xi.
 * 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
 
 <p align="center">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/berkeley.png" height="100" width="100"/>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/stanford.png" height="100" width="100" style="max-width: 100%;margin-right: 5px;"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/sigma-xi.png" height="100" width="100"/>
 <a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
-* 👑   Some GitHub statistical reports:
+* 📊   Open-source activity and repository highlights:
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
@@ -45,7 +48,7 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
   
 <hr>
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>Explore my repositories, research interests, and technical writing, or reach out to discuss machine learning systems and frontier AI.</i>
 
 <p align="center">
 <a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
