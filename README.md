@@ -5,11 +5,10 @@
 I am a **research-oriented machine learning systems engineer** working on **foundation model infrastructure, alignment, and evaluation**. I build efficient and reliable systems for large language models while studying the algorithms and data choices that make them more useful, controllable, and cost-effective in real applications.
 
 * 🧐   My central research interest is **model-system co-design**: understanding how model architecture, inference algorithms, data curation, hardware utilization, scheduling, and distributed runtimes interact.
-* 💼   At **TikTok**, I work on Model-as-a-Service platforms and high-performance LLM inference, developing production serving infrastructure with **vLLM** and **SGLang**.
-* 🎓   My recent research includes distributed disaggregated inference, preference optimization, instruction-tuning data selection, multimodal evaluation, and retrieval-augmented biomedical summarization.
+* 💼   I work on Model-as-a-Service platforms and high-performance LLM inference, developing production serving infrastructure with **vLLM** and **SGLang**.
+* 🎓   My recent research includes distributed disaggregated inference, preference optimization, instruction-tuning data selection, multimodal evaluation.
 * 🌱   I investigate alignment and evaluation methods that connect measurable model behavior with real-world usefulness, controllability, reliability, and serving cost.
 * 📚   My systems work spans model runtime integration, scheduling and continuous batching, KV-cache and memory management, distributed execution, observability, and reliability.
-* 💻   My broader research experience includes reinforcement learning for robotics, healthcare sequence modeling, privacy-preserving machine learning, and motion planning.
 * ⛵   I am interested in collaborating on open research and infrastructure that make frontier AI systems faster to experiment with, more rigorous to evaluate, and dependable at scale.
 * ✍🏻   I share technical writing on machine learning systems, infrastructure, and software engineering through my [personal blog](https://halfrost.com/).
 
