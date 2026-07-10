@@ -35,10 +35,10 @@ I am a **research-oriented machine learning systems engineer** working on **foun
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
-<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=halfrost&layout=compact&theme=default&langs_count=8" alt="halfrost's top languages" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=default" alt="halfrost's GitHub stats" />
+<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=halfrost&column=7&theme=flat" alt="halfrost's GitHub trophy" />
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/timeline-drop/output/dropped-timeline-halfrost.gif" alt="Repository activity timeline" />
 </p>
 
 </details>
