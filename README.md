@@ -37,7 +37,7 @@ I am a **research-oriented machine learning systems engineer** working on **foun
 <p align="center">
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=halfrost&layout=compact&theme=default&langs_count=8" alt="halfrost's top languages" />
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=default" alt="halfrost's GitHub stats" />
-<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=halfrost&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&row=3&column=5&theme=flat" alt="halfrost's GitHub trophy" />
+<img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=halfrost&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&theme=flat" alt="halfrost's GitHub trophy" />
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/timeline-drop/output/dropped-timeline-halfrost.gif" alt="Repository activity timeline" />
 </p>
 
