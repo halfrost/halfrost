@@ -187,6 +187,61 @@
     "contentType": "image/png"
   },
   {
+    "label": "Deep Agents",
+    "path": "agentic-ai/deep-agents.svg",
+    "status": "downloaded",
+    "source": "LangChain official SVG for Deep Agents",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
+    "bytes": 546,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Hugging Face smolagents",
+    "path": "agentic-ai/smolagents.svg",
+    "status": "downloaded",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "AG2",
+    "path": "agentic-ai/ag2.png",
+    "status": "downloaded",
+    "source": "https://docs.ag2.ai",
+    "kind": "Google favicon from official domain",
+    "url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fdocs.ag2.ai&sz=512",
+    "finalUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://docs.ag2.ai&size=512",
+    "bytes": 322,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Claude Agent SDK",
+    "path": "agentic-ai/claude-agent-sdk.svg",
+    "status": "downloaded",
+    "source": "logos:claude-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:claude-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:claude-icon.svg",
+    "bytes": 2031,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "OpenHands",
+    "path": "agentic-ai/openhands.svg",
+    "status": "downloaded",
+    "source": "https://www.all-hands.dev (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.openhands.dev/favicon.svg",
+    "finalUrl": "https://www.openhands.dev/favicon.svg",
+    "bytes": 7485,
+    "contentType": "image/svg+xml"
+  },
+  {
     "label": "LangChain",
     "path": "rag/langchain.svg",
     "status": "downloaded",
@@ -583,6 +638,39 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "Llama Guard",
+    "path": "ai-security/llama-guard.svg",
+    "status": "downloaded",
+    "source": "logos:meta-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meta-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:meta-icon.svg",
+    "bytes": 2183,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "LLM Guard",
+    "path": "ai-security/llm-guard.png",
+    "status": "downloaded",
+    "source": "LLM Guard dashboard asset",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/llm_guard.png",
+    "finalUrl": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/llm_guard.png",
+    "bytes": 41719,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Rebuff",
+    "path": "ai-security/rebuff.png",
+    "status": "downloaded",
+    "source": "Rebuff archived official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/protectai/rebuff/main/server/public/logo.png",
+    "finalUrl": "https://raw.githubusercontent.com/protectai/rebuff/main/server/public/logo.png",
+    "bytes": 469580,
+    "contentType": "image/png"
+  },
+  {
     "label": "LangSmith",
     "path": "observability/langsmith.svg",
     "status": "downloaded",
@@ -690,6 +778,61 @@
     "url": "https://www.braintrust.dev/braintrust-logo.svg",
     "finalUrl": "https://www.braintrust.dev/braintrust-logo.svg",
     "bytes": 3676,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Portkey",
+    "path": "observability/portkey.png",
+    "status": "downloaded",
+    "source": "https://portkey.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://framerusercontent.com/images/pkFK3AGXHirogqiN67JGtlnMVM.png",
+    "finalUrl": "https://framerusercontent.com/images/pkFK3AGXHirogqiN67JGtlnMVM.png",
+    "bytes": 1864,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Maxim AI",
+    "path": "observability/maxim-ai.png",
+    "status": "downloaded",
+    "source": "https://www.getmaxim.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/665ab0daac869acad030a349/680b8b1ccf217101e6ff7b6f_Favicon_256.png",
+    "finalUrl": "https://cdn.prod.website-files.com/665ab0daac869acad030a349/680b8b1ccf217101e6ff7b6f_Favicon_256.png",
+    "bytes": 17064,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Galileo",
+    "path": "observability/galileo.png",
+    "status": "downloaded",
+    "source": "https://www.galileo.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://framerusercontent.com/images/ZPCCTUdAWfqDBdZ3d8YL4vq4X1s.png",
+    "finalUrl": "https://framerusercontent.com/images/ZPCCTUdAWfqDBdZ3d8YL4vq4X1s.png",
+    "bytes": 1330,
+    "contentType": "image/png"
+  },
+  {
+    "label": "PromptLayer",
+    "path": "observability/promptlayer.png",
+    "status": "downloaded",
+    "source": "https://www.promptlayer.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.promptlayer.com/icon.png?88c698b5312f01f1",
+    "finalUrl": "https://www.promptlayer.com/icon.png?88c698b5312f01f1",
+    "bytes": 7476,
+    "contentType": "image/png"
+  },
+  {
+    "label": "PostHog LLM Analytics",
+    "path": "observability/posthog-llm-analytics.svg",
+    "status": "downloaded",
+    "source": "logos:posthog-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:posthog-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:posthog-icon.svg",
+    "bytes": 2085,
     "contentType": "image/svg+xml"
   },
   {
@@ -1100,6 +1243,83 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "Cursor",
+    "path": "ai-tools/cursor.svg",
+    "status": "downloaded",
+    "source": "Cursor dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/cursor.svg",
+    "finalUrl": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/cursor.svg",
+    "bytes": 548,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Windsurf",
+    "path": "ai-tools/windsurf.svg",
+    "status": "downloaded",
+    "source": "https://windsurf.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://devin.ai/favicon.svg",
+    "finalUrl": "https://devin.ai/favicon.svg",
+    "bytes": 1403,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Cline",
+    "path": "ai-tools/cline.png",
+    "status": "downloaded",
+    "source": "https://cline.bot (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cline.bot/assets/branding/favicons/apple-touch-icon.png",
+    "finalUrl": "https://cline.bot/assets/branding/favicons/apple-touch-icon.png",
+    "bytes": 6391,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Continue",
+    "path": "ai-tools/continue.png",
+    "status": "downloaded",
+    "source": "https://www.continue.dev (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.continue.dev/favicon.png",
+    "finalUrl": "https://www.continue.dev/favicon.png",
+    "bytes": 29041,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Label Studio",
+    "path": "ai-tools/label-studio.svg",
+    "status": "downloaded",
+    "source": "https://labelstud.io (icon)",
+    "kind": "Official site icon",
+    "url": "https://labelstud.io/favicon.svg",
+    "finalUrl": "https://labelstud.io/favicon.svg",
+    "bytes": 708,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Docling",
+    "path": "ai-tools/docling.png",
+    "status": "downloaded",
+    "source": "https://docling-project.github.io/docling (icon)",
+    "kind": "Official site icon",
+    "url": "https://docling-project.github.io/docling/assets/logo.png",
+    "finalUrl": "https://docling-project.github.io/docling/assets/logo.png",
+    "bytes": 240086,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Jina AI",
+    "path": "ai-tools/jina-ai.png",
+    "status": "downloaded",
+    "source": "https://jina.ai (apple-touch-startup-image)",
+    "kind": "Official site icon",
+    "url": "https://jina.ai/icons/apple-launch-1284x2778.png",
+    "finalUrl": "https://jina.ai/icons/apple-launch-1284x2778.png",
+    "bytes": 4599,
+    "contentType": "image/png"
+  },
+  {
     "label": "Modal",
     "path": "ai-infra/modal.svg",
     "status": "downloaded",
@@ -1166,6 +1386,160 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "llama.cpp",
+    "path": "ai-infra/llama-cpp.svg",
+    "status": "downloaded",
+    "source": "https://github.com/ggml-org/llama.cpp (icon)",
+    "kind": "Official site icon",
+    "url": "https://github.githubassets.com/favicons/favicon.svg",
+    "finalUrl": "https://github.githubassets.com/favicons/favicon.svg",
+    "bytes": 957,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Hugging Face TGI",
+    "path": "ai-infra/hugging-face-tgi.svg",
+    "status": "downloaded",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "TensorRT-LLM",
+    "path": "ai-infra/tensorrt-llm.svg",
+    "status": "downloaded",
+    "source": "logos:nvidia",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:nvidia.svg",
+    "finalUrl": "https://api.iconify.design/logos:nvidia.svg",
+    "bytes": 1741,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "NVIDIA Triton",
+    "path": "ai-infra/nvidia-triton.png",
+    "status": "downloaded",
+    "source": "NVIDIA Triton dashboard asset",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/nvidia_triton.png",
+    "finalUrl": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/nvidia_triton.png",
+    "bytes": 5022,
+    "contentType": "image/png"
+  },
+  {
+    "label": "KServe",
+    "path": "ai-infra/kserve.png",
+    "status": "downloaded",
+    "source": "https://kserve.github.io/website (icon)",
+    "kind": "Official site icon",
+    "url": "https://kserve.github.io/website/img/favicon-32x32.png",
+    "finalUrl": "https://kserve.github.io/website/img/favicon-32x32.png",
+    "bytes": 2272,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Baseten",
+    "path": "ai-infra/baseten.svg",
+    "status": "downloaded",
+    "source": "Baseten dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/baseten.svg",
+    "finalUrl": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/baseten.svg",
+    "bytes": 554,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Replicate",
+    "path": "ai-infra/replicate.svg",
+    "status": "downloaded",
+    "source": "Replicate dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/replicate.svg",
+    "finalUrl": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/replicate.svg",
+    "bytes": 308,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Runpod",
+    "path": "ai-infra/runpod.png",
+    "status": "downloaded",
+    "source": "https://www.runpod.io (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69e08b4ced16e020149fc61d_favicon_www_runpod_io_256x256.png",
+    "finalUrl": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69e08b4ced16e020149fc61d_favicon_www_runpod_io_256x256.png",
+    "bytes": 3864,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Hugging Face Accelerate",
+    "path": "training/hugging-face-accelerate.svg",
+    "status": "downloaded",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Hugging Face TRL",
+    "path": "training/hugging-face-trl.svg",
+    "status": "downloaded",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Hugging Face PEFT",
+    "path": "training/hugging-face-peft.svg",
+    "status": "downloaded",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Axolotl",
+    "path": "training/axolotl.png",
+    "status": "downloaded",
+    "source": "https://axolotl.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/66f2f3706b85119e9ca7dbe3/66fc1e487db259ff282c3006_axolotl_webclip.png",
+    "finalUrl": "https://cdn.prod.website-files.com/66f2f3706b85119e9ca7dbe3/66fc1e487db259ff282c3006_axolotl_webclip.png",
+    "bytes": 38450,
+    "contentType": "image/png"
+  },
+  {
+    "label": "DeepSpeed",
+    "path": "training/deepspeed.svg",
+    "status": "downloaded",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "PyTorch Lightning",
+    "path": "training/pytorch-lightning.svg",
+    "status": "downloaded",
+    "source": "https://lightning.ai (mask-icon)",
+    "kind": "Official site icon",
+    "url": "https://lightning.ai/favicon/safari-pinned-tab.svg",
+    "finalUrl": "https://lightning.ai/favicon/safari-pinned-tab.svg",
+    "bytes": 1253,
+    "contentType": "image/svg+xml"
+  },
+  {
     "label": "Pinecone",
     "path": "vector-database/pinecone.svg",
     "status": "downloaded",
@@ -1185,6 +1559,39 @@
     "url": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69ab0db86188576e86d098f7_89e64c892e91417e1a9ff9ecbda3545f_lanceDB_logo.svg",
     "finalUrl": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69ab0db86188576e86d098f7_89e64c892e91417e1a9ff9ecbda3545f_lanceDB_logo.svg",
     "bytes": 25345,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "FAISS",
+    "path": "vector-database/faiss.svg",
+    "status": "downloaded",
+    "source": "logos:meta-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meta-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:meta-icon.svg",
+    "bytes": 2183,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "OpenSearch",
+    "path": "vector-database/opensearch.svg",
+    "status": "downloaded",
+    "source": "logos:opensearch",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:opensearch.svg",
+    "finalUrl": "https://api.iconify.design/logos:opensearch.svg",
+    "bytes": 4803,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Meilisearch",
+    "path": "vector-database/meilisearch.svg",
+    "status": "downloaded",
+    "source": "logos:meilisearch",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meilisearch.svg",
+    "finalUrl": "https://api.iconify.design/logos:meilisearch.svg",
+    "bytes": 1108,
     "contentType": "image/svg+xml"
   },
   {
