@@ -1,0 +1,1379 @@
+[
+  {
+    "label": "OpenAI GPT",
+    "popular_path": "popular/llm--openai-gpt.svg",
+    "source_path": "llm/openai-gpt.svg",
+    "source": "ChatGPT app icon",
+    "kind": "Official/direct asset",
+    "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.svg",
+    "bytes": 2740
+  },
+  {
+    "label": "Anthropic Claude",
+    "popular_path": "popular/llm--anthropic-claude.svg",
+    "source_path": "llm/anthropic-claude.svg",
+    "source": "logos:claude-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:claude-icon.svg",
+    "bytes": 2031
+  },
+  {
+    "label": "Google Gemini",
+    "popular_path": "popular/llm--google-gemini.svg",
+    "source_path": "llm/google-gemini.svg",
+    "source": "logos:google-gemini",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:google-gemini.svg",
+    "bytes": 3873
+  },
+  {
+    "label": "Meta Llama",
+    "popular_path": "popular/llm--meta-llama.svg",
+    "source_path": "llm/meta-llama.svg",
+    "source": "logos:meta-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meta-icon.svg",
+    "bytes": 2183
+  },
+  {
+    "label": "Mistral AI",
+    "popular_path": "popular/llm--mistral-ai.svg",
+    "source_path": "llm/mistral-ai.svg",
+    "source": "logos:mistral-ai-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:mistral-ai-icon.svg",
+    "bytes": 1292
+  },
+  {
+    "label": "Cohere",
+    "popular_path": "popular/llm--cohere.svg",
+    "source_path": "llm/cohere.svg",
+    "source": "Cohere official nav icon",
+    "kind": "Official/direct asset",
+    "url": "https://cohere.com/nav_icon.svg",
+    "bytes": 1668
+  },
+  {
+    "label": "Hugging Face",
+    "popular_path": "popular/llm--hugging-face.svg",
+    "source_path": "llm/hugging-face.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "Ollama",
+    "popular_path": "popular/llm--ollama.svg",
+    "source_path": "llm/ollama.svg",
+    "source": "devicon:ollama",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/devicon:ollama.svg",
+    "bytes": 2377
+  },
+  {
+    "label": "vLLM",
+    "popular_path": "popular/llm--vllm.webp",
+    "source_path": "llm/vllm.webp",
+    "source": "vLLM official docs logo",
+    "kind": "Official/direct asset",
+    "url": "https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-text-light.png",
+    "bytes": 19600
+  },
+  {
+    "label": "LangGraph",
+    "popular_path": "popular/agentic-ai--langgraph.svg",
+    "source_path": "agentic-ai/langgraph.svg",
+    "source": "LangGraph official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
+    "bytes": 1037
+  },
+  {
+    "label": "CrewAI",
+    "popular_path": "popular/agentic-ai--crewai.png",
+    "source_path": "agentic-ai/crewai.png",
+    "source": "CrewAI logo image",
+    "kind": "Official/direct asset",
+    "url": "https://upload.wikimedia.org/wikipedia/en/3/37/CrewAI_logo.png",
+    "bytes": 5867
+  },
+  {
+    "label": "Microsoft AutoGen",
+    "popular_path": "popular/agentic-ai--microsoft-autogen.svg",
+    "source_path": "agentic-ai/microsoft-autogen.svg",
+    "source": "Microsoft AutoGen official docs logo",
+    "kind": "Official/direct asset",
+    "url": "https://microsoft.github.io/autogen/stable/_static/logo.svg",
+    "bytes": 1777
+  },
+  {
+    "label": "Microsoft Agent Framework",
+    "popular_path": "popular/agentic-ai--microsoft-agent-framework.svg",
+    "source_path": "agentic-ai/microsoft-agent-framework.svg",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325
+  },
+  {
+    "label": "LlamaIndex Workflows",
+    "popular_path": "popular/agentic-ai--llamaindex-workflows.svg",
+    "source_path": "agentic-ai/llamaindex-workflows.svg",
+    "source": "https://www.llamaindex.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.llamaindex.ai/favicon.svg",
+    "bytes": 181762
+  },
+  {
+    "label": "AWS Strands Agents",
+    "popular_path": "popular/agentic-ai--aws-strands-agents.svg",
+    "source_path": "agentic-ai/aws-strands-agents.svg",
+    "source": "https://strandsagents.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://strandsagents.com/favicon.svg",
+    "bytes": 2041
+  },
+  {
+    "label": "CAMEL",
+    "popular_path": "popular/agentic-ai--camel.png",
+    "source_path": "agentic-ai/camel.png",
+    "source": "CAMEL official logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.camel-ai.org/logo/camel.png",
+    "bytes": 13482
+  },
+  {
+    "label": "Agno",
+    "popular_path": "popular/agentic-ai--agno.png",
+    "source_path": "agentic-ai/agno.png",
+    "source": "Agno official logo",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/6796d350b8c706e4533e7e32/6796d350b8c706e4533e8011_Agno%20Logo.png",
+    "bytes": 7829
+  },
+  {
+    "label": "Deep Agents",
+    "popular_path": "popular/agentic-ai--deep-agents.svg",
+    "source_path": "agentic-ai/deep-agents.svg",
+    "source": "LangChain official SVG for Deep Agents",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
+    "bytes": 546
+  },
+  {
+    "label": "Hugging Face smolagents",
+    "popular_path": "popular/agentic-ai--hugging-face-smolagents.svg",
+    "source_path": "agentic-ai/smolagents.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "AG2",
+    "popular_path": "popular/agentic-ai--ag2.png",
+    "source_path": "agentic-ai/ag2.png",
+    "source": "https://docs.ag2.ai",
+    "kind": "Google favicon from official domain",
+    "url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fdocs.ag2.ai&sz=512",
+    "bytes": 322
+  },
+  {
+    "label": "Claude Agent SDK",
+    "popular_path": "popular/agentic-ai--claude-agent-sdk.svg",
+    "source_path": "agentic-ai/claude-agent-sdk.svg",
+    "source": "logos:claude-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:claude-icon.svg",
+    "bytes": 2031
+  },
+  {
+    "label": "OpenHands",
+    "popular_path": "popular/agentic-ai--openhands.svg",
+    "source_path": "agentic-ai/openhands.svg",
+    "source": "https://www.all-hands.dev (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.openhands.dev/favicon.svg",
+    "bytes": 7485
+  },
+  {
+    "label": "LangChain",
+    "popular_path": "popular/rag--langchain.svg",
+    "source_path": "rag/langchain.svg",
+    "source": "LangChain official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
+    "bytes": 546
+  },
+  {
+    "label": "LlamaIndex",
+    "popular_path": "popular/rag--llamaindex.svg",
+    "source_path": "rag/llamaindex.svg",
+    "source": "https://www.llamaindex.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.llamaindex.ai/favicon.svg",
+    "bytes": 181762
+  },
+  {
+    "label": "Haystack",
+    "popular_path": "popular/rag--haystack.svg",
+    "source_path": "rag/haystack.svg",
+    "source": "Haystack official docs SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/deepset-ai/haystack/main/docs-website/static/img/logo.svg",
+    "bytes": 628
+  },
+  {
+    "label": "DSPy",
+    "popular_path": "popular/rag--dspy.svg",
+    "source_path": "rag/dspy.svg",
+    "source": "DSPy official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://dspy.ai/static/dspy-logo.svg",
+    "bytes": 4741
+  },
+  {
+    "label": "RAGFlow",
+    "popular_path": "popular/rag--ragflow.svg",
+    "source_path": "rag/ragflow.svg",
+    "source": "https://ragflow.io (icon)",
+    "kind": "Official site icon",
+    "url": "https://ragflow.io/img/logo.svg",
+    "bytes": 3723
+  },
+  {
+    "label": "GraphRAG",
+    "popular_path": "popular/rag--graphrag.svg",
+    "source_path": "rag/graphrag.svg",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325
+  },
+  {
+    "label": "Unstructured",
+    "popular_path": "popular/rag--unstructured.png",
+    "source_path": "rag/unstructured.png",
+    "source": "Unstructured official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/Unstructured-IO/unstructured/main/img/unstructured_logo.png",
+    "bytes": 14054
+  },
+  {
+    "label": "EmbedChain",
+    "popular_path": "popular/rag--embedchain.png",
+    "source_path": "rag/embedchain.png",
+    "source": "EmbedChain official site favicon",
+    "kind": "Official/direct asset",
+    "url": "https://framerusercontent.com/images/8dbfJC1gGsafWsBmX5emgbJvEIE.png",
+    "bytes": 383
+  },
+  {
+    "label": "OpenAI Embeddings",
+    "popular_path": "popular/embedding--openai-embeddings.svg",
+    "source_path": "embedding/openai-embeddings.svg",
+    "source": "ChatGPT app icon",
+    "kind": "Official/direct asset",
+    "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.svg",
+    "bytes": 2740
+  },
+  {
+    "label": "Cohere Embed",
+    "popular_path": "popular/embedding--cohere-embed.svg",
+    "source_path": "embedding/cohere-embed.svg",
+    "source": "Cohere official nav icon",
+    "kind": "Official/direct asset",
+    "url": "https://cohere.com/nav_icon.svg",
+    "bytes": 1668
+  },
+  {
+    "label": "Voyage AI",
+    "popular_path": "popular/embedding--voyage-ai.svg",
+    "source_path": "embedding/voyage-ai.svg",
+    "source": "https://www.voyageai.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.voyageai.com/icon.svg",
+    "bytes": 5691
+  },
+  {
+    "label": "Sentence Transformers",
+    "popular_path": "popular/embedding--sentence-transformers.png",
+    "source_path": "embedding/sentence-transformers.png",
+    "source": "Sentence Transformers official logo",
+    "kind": "Official/direct asset",
+    "url": "https://sbert.net/_static/logo.png",
+    "bytes": 39299
+  },
+  {
+    "label": "BGE",
+    "popular_path": "popular/embedding--bge.jpg",
+    "source_path": "embedding/bge.jpg",
+    "source": "BGE official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/FlagOpen/FlagEmbedding/master/imgs/bge_logo.jpg",
+    "bytes": 1224731
+  },
+  {
+    "label": "Google Vertex AI Embeddings",
+    "popular_path": "popular/embedding--google-vertex-ai-embeddings.svg",
+    "source_path": "embedding/google-vertex-ai-embeddings.svg",
+    "source": "logos:google-cloud",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:google-cloud.svg",
+    "bytes": 1069
+  },
+  {
+    "label": "Azure OpenAI Embeddings",
+    "popular_path": "popular/embedding--azure-openai-embeddings.svg",
+    "source_path": "embedding/azure-openai-embeddings.svg",
+    "source": "logos:microsoft-azure",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-azure.svg",
+    "bytes": 1542
+  },
+  {
+    "label": "PyTorch",
+    "popular_path": "popular/ml-framework--pytorch.svg",
+    "source_path": "ml-framework/pytorch.svg",
+    "source": "logos:pytorch-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:pytorch-icon.svg",
+    "bytes": 591
+  },
+  {
+    "label": "TensorFlow",
+    "popular_path": "popular/ml-framework--tensorflow.svg",
+    "source_path": "ml-framework/tensorflow.svg",
+    "source": "logos:tensorflow",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:tensorflow.svg",
+    "bytes": 692
+  },
+  {
+    "label": "JAX",
+    "popular_path": "popular/ml-framework--jax.svg",
+    "source_path": "ml-framework/jax.svg",
+    "source": "JAX SVG logo sourced from official JAX repo",
+    "kind": "Official/direct asset",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg",
+    "bytes": 3976
+  },
+  {
+    "label": "Keras",
+    "popular_path": "popular/ml-framework--keras.png",
+    "source_path": "ml-framework/keras.png",
+    "source": "Keras official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://keras.io/img/logo.png",
+    "bytes": 33314
+  },
+  {
+    "label": "ONNX Runtime",
+    "popular_path": "popular/ml-framework--onnx-runtime.svg",
+    "source_path": "ml-framework/onnx-runtime.svg",
+    "source": "ONNX Runtime official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://onnxruntime.ai/images/ONNX-Runtime-logo.svg",
+    "bytes": 9520
+  },
+  {
+    "label": "MCP SDK",
+    "popular_path": "popular/mcp--mcp-sdk.svg",
+    "source_path": "mcp/mcp-sdk.svg",
+    "source": "MCP official favicon SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
+    "bytes": 1085
+  },
+  {
+    "label": "FastMCP",
+    "popular_path": "popular/mcp--fastmcp.svg",
+    "source_path": "mcp/fastmcp.svg",
+    "source": "FastMCP official SVG icon",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/favicon-light.svg",
+    "bytes": 859
+  },
+  {
+    "label": "MCP Registry",
+    "popular_path": "popular/mcp--mcp-registry.svg",
+    "source_path": "mcp/mcp-registry.svg",
+    "source": "MCP official favicon SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
+    "bytes": 1085
+  },
+  {
+    "label": "GitHub MCP Server",
+    "popular_path": "popular/mcp--github-mcp-server.svg",
+    "source_path": "mcp/github-mcp-server.svg",
+    "source": "logos:github-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:github-icon.svg",
+    "bytes": 2003
+  },
+  {
+    "label": "Slack MCP Server",
+    "popular_path": "popular/mcp--slack-mcp-server.svg",
+    "source_path": "mcp/slack-mcp-server.svg",
+    "source": "logos:slack-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:slack-icon.svg",
+    "bytes": 1252
+  },
+  {
+    "label": "PostgreSQL MCP Server",
+    "popular_path": "popular/mcp--postgresql-mcp-server.svg",
+    "source_path": "mcp/postgresql-mcp-server.svg",
+    "source": "logos:postgresql",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:postgresql.svg",
+    "bytes": 6739
+  },
+  {
+    "label": "Google Drive MCP Server",
+    "popular_path": "popular/mcp--google-drive-mcp-server.svg",
+    "source_path": "mcp/google-drive-mcp-server.svg",
+    "source": "logos:google-drive",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:google-drive.svg",
+    "bytes": 1220
+  },
+  {
+    "label": "Filesystem MCP Server",
+    "popular_path": "popular/mcp--filesystem-mcp-server.svg",
+    "source_path": "mcp/filesystem-mcp-server.svg",
+    "source": "MCP official favicon SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
+    "bytes": 1085
+  },
+  {
+    "label": "NVIDIA NeMo Guardrails",
+    "popular_path": "popular/ai-security--nvidia-nemo-guardrails.svg",
+    "source_path": "ai-security/nvidia-nemo-guardrails.svg",
+    "source": "logos:nvidia",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:nvidia.svg",
+    "bytes": 1741
+  },
+  {
+    "label": "Guardrails AI",
+    "popular_path": "popular/ai-security--guardrails-ai.svg",
+    "source_path": "ai-security/guardrails-ai.svg",
+    "source": "Guardrails AI official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/guardrails-ai/guardrails/main/docs/assets/Guardrails-ai-logo-for-white-bg.svg",
+    "bytes": 13842
+  },
+  {
+    "label": "Microsoft Presidio",
+    "popular_path": "popular/ai-security--microsoft-presidio.svg",
+    "source_path": "ai-security/microsoft-presidio.svg",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325
+  },
+  {
+    "label": "Lakera Guard",
+    "popular_path": "popular/ai-security--lakera-guard.png",
+    "source_path": "ai-security/lakera-guard.png",
+    "source": "Lakera official black symbol",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65080baa3f9a607985451de3/6526f98447db0b4b7b22493e_Lakera-Symbol-Black-256.png",
+    "bytes": 2363
+  },
+  {
+    "label": "Prompt Security",
+    "popular_path": "popular/ai-security--prompt-security.svg",
+    "source_path": "ai-security/prompt-security.svg",
+    "source": "Prompt Security official repo SVG icon",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/prompt-security/ps-fuzz/main/resources/prompt-icon.svg",
+    "bytes": 1450
+  },
+  {
+    "label": "Protect AI",
+    "popular_path": "popular/ai-security--protect-ai.png",
+    "source_path": "ai-security/protect-ai.png",
+    "source": "Protect AI official wordmark",
+    "kind": "Official/direct asset",
+    "url": "https://protectai.com/hs-fs/hubfs/unnamed-2.png?width=510&name=unnamed-2.png",
+    "bytes": 4996
+  },
+  {
+    "label": "Azure AI Content Safety",
+    "popular_path": "popular/ai-security--azure-ai-content-safety.svg",
+    "source_path": "ai-security/azure-ai-content-safety.svg",
+    "source": "logos:microsoft-azure",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-azure.svg",
+    "bytes": 1542
+  },
+  {
+    "label": "AWS Bedrock Guardrails",
+    "popular_path": "popular/ai-security--aws-bedrock-guardrails.svg",
+    "source_path": "ai-security/aws-bedrock-guardrails.svg",
+    "source": "logos:aws",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:aws.svg",
+    "bytes": 3798
+  },
+  {
+    "label": "Llama Guard",
+    "popular_path": "popular/ai-security--llama-guard.svg",
+    "source_path": "ai-security/llama-guard.svg",
+    "source": "logos:meta-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meta-icon.svg",
+    "bytes": 2183
+  },
+  {
+    "label": "LLM Guard",
+    "popular_path": "popular/ai-security--llm-guard.png",
+    "source_path": "ai-security/llm-guard.png",
+    "source": "LLM Guard dashboard asset",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/llm_guard.png",
+    "bytes": 41719
+  },
+  {
+    "label": "Rebuff",
+    "popular_path": "popular/ai-security--rebuff.png",
+    "source_path": "ai-security/rebuff.png",
+    "source": "Rebuff archived official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/protectai/rebuff/main/server/public/logo.png",
+    "bytes": 469580
+  },
+  {
+    "label": "LangSmith",
+    "popular_path": "popular/observability--langsmith.svg",
+    "source_path": "observability/langsmith.svg",
+    "source": "LangSmith official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698afeb61612bb3b1af6e9ee_Frame%202147254707.svg",
+    "bytes": 1007
+  },
+  {
+    "label": "Langfuse",
+    "popular_path": "popular/observability--langfuse.svg",
+    "source_path": "observability/langfuse.svg",
+    "source": "Langfuse official wordart SVG",
+    "kind": "Official/direct asset",
+    "url": "https://langfuse.com/langfuse-wordart.svg",
+    "bytes": 7433
+  },
+  {
+    "label": "MLflow",
+    "popular_path": "popular/observability--mlflow.svg",
+    "source_path": "observability/mlflow.svg",
+    "source": "MLflow official black SVG",
+    "kind": "Official/direct asset",
+    "url": "https://mlflow.org/img/mlflow-black.svg",
+    "bytes": 2605
+  },
+  {
+    "label": "Arize Phoenix",
+    "popular_path": "popular/observability--arize-phoenix.png",
+    "source_path": "observability/arize-phoenix.png",
+    "source": "Phoenix official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/Arize-ai/phoenix/main/docs/logo/dark.png",
+    "bytes": 12747
+  },
+  {
+    "label": "Weights & Biases",
+    "popular_path": "popular/observability--weights-and-biases.svg",
+    "source_path": "observability/weights-biases.svg",
+    "source": "Weights & Biases official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg",
+    "bytes": 29311
+  },
+  {
+    "label": "Weights & Biases Weave",
+    "popular_path": "popular/observability--weights-and-biases-weave.svg",
+    "source_path": "observability/weights-biases-weave.svg",
+    "source": "Weights & Biases official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg",
+    "bytes": 29311
+  },
+  {
+    "label": "TruLens",
+    "popular_path": "popular/observability--trulens.svg",
+    "source_path": "observability/trulens.svg",
+    "source": "https://www.trulens.org (mask-icon)",
+    "kind": "Official site icon",
+    "url": "https://www.trulens.org/assets/favicon/safari-pinned-tab.svg",
+    "bytes": 6145
+  },
+  {
+    "label": "Ragas",
+    "popular_path": "popular/observability--ragas.svg",
+    "source_path": "observability/ragas.svg",
+    "source": "Ragas official docs SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/logo-black.svg",
+    "bytes": 3678
+  },
+  {
+    "label": "Promptfoo",
+    "popular_path": "popular/observability--promptfoo.svg",
+    "source_path": "observability/promptfoo.svg",
+    "source": "Promptfoo official panda logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.promptfoo.dev/img/logo-panda.svg",
+    "bytes": 8132
+  },
+  {
+    "label": "Braintrust",
+    "popular_path": "popular/observability--braintrust.svg",
+    "source_path": "observability/braintrust.svg",
+    "source": "Braintrust official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.braintrust.dev/braintrust-logo.svg",
+    "bytes": 3676
+  },
+  {
+    "label": "Portkey",
+    "popular_path": "popular/observability--portkey.png",
+    "source_path": "observability/portkey.png",
+    "source": "https://portkey.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://framerusercontent.com/images/pkFK3AGXHirogqiN67JGtlnMVM.png",
+    "bytes": 1864
+  },
+  {
+    "label": "Maxim AI",
+    "popular_path": "popular/observability--maxim-ai.png",
+    "source_path": "observability/maxim-ai.png",
+    "source": "https://www.getmaxim.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/665ab0daac869acad030a349/680b8b1ccf217101e6ff7b6f_Favicon_256.png",
+    "bytes": 17064
+  },
+  {
+    "label": "Galileo",
+    "popular_path": "popular/observability--galileo.png",
+    "source_path": "observability/galileo.png",
+    "source": "https://www.galileo.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://framerusercontent.com/images/ZPCCTUdAWfqDBdZ3d8YL4vq4X1s.png",
+    "bytes": 1330
+  },
+  {
+    "label": "PromptLayer",
+    "popular_path": "popular/observability--promptlayer.png",
+    "source_path": "observability/promptlayer.png",
+    "source": "https://www.promptlayer.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.promptlayer.com/icon.png?88c698b5312f01f1",
+    "bytes": 7476
+  },
+  {
+    "label": "PostHog LLM Analytics",
+    "popular_path": "popular/observability--posthog-llm-analytics.svg",
+    "source_path": "observability/posthog-llm-analytics.svg",
+    "source": "logos:posthog-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:posthog-icon.svg",
+    "bytes": 2085
+  },
+  {
+    "label": "Helicone",
+    "popular_path": "popular/observability--helicone.webp",
+    "source_path": "observability/helicone.webp",
+    "source": "https://www.helicone.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.helicone.ai/static/logo.webp",
+    "bytes": 17752
+  },
+  {
+    "label": "Mem0",
+    "popular_path": "popular/memory--mem0.svg",
+    "source_path": "memory/mem0.svg",
+    "source": "https://mem0.ai (icon)",
+    "kind": "Official site icon",
+    "url": "https://framerusercontent.com/images/2ys67ADJdvcyGmQnhp8vKWSq8.svg",
+    "bytes": 5053
+  },
+  {
+    "label": "Zep",
+    "popular_path": "popular/memory--zep.svg",
+    "source_path": "memory/zep.svg",
+    "source": "Zep official SVG icon",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/getzep/zep/main/assets/zep-logo-icon-gradient-rgb.svg",
+    "bytes": 1737
+  },
+  {
+    "label": "Letta",
+    "popular_path": "popular/memory--letta.png",
+    "source_path": "memory/letta.png",
+    "source": "Letta official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/letta-ai/letta/main/assets/Letta-logo-RGB_GreyonTransparent_cropped_small.png",
+    "bytes": 43105
+  },
+  {
+    "label": "LangGraph Memory",
+    "popular_path": "popular/memory--langgraph-memory.svg",
+    "source_path": "memory/langgraph-memory.svg",
+    "source": "LangGraph official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
+    "bytes": 1037
+  },
+  {
+    "label": "Redis",
+    "popular_path": "popular/memory--redis.svg",
+    "source_path": "memory/redis.svg",
+    "source": "logos:redis",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:redis.svg",
+    "bytes": 2676
+  },
+  {
+    "label": "PostgreSQL",
+    "popular_path": "popular/memory--postgresql.svg",
+    "source_path": "memory/postgresql.svg",
+    "source": "logos:postgresql",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:postgresql.svg",
+    "bytes": 6739
+  },
+  {
+    "label": "Neo4j",
+    "popular_path": "popular/memory--neo4j.svg",
+    "source_path": "memory/neo4j.svg",
+    "source": "logos:neo4j",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:neo4j.svg",
+    "bytes": 2080
+  },
+  {
+    "label": "Chroma",
+    "popular_path": "popular/memory--chroma.svg",
+    "source_path": "memory/chroma.svg",
+    "source": "logos:chroma",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:chroma.svg",
+    "bytes": 373
+  },
+  {
+    "label": "OpenAI Agents SDK",
+    "popular_path": "popular/ai-agent--openai-agents-sdk.svg",
+    "source_path": "ai-agent/openai-agents-sdk.svg",
+    "source": "ChatGPT app icon",
+    "kind": "Official/direct asset",
+    "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.svg",
+    "bytes": 2740
+  },
+  {
+    "label": "LangChain Agents",
+    "popular_path": "popular/ai-agent--langchain-agents.svg",
+    "source_path": "ai-agent/langchain-agents.svg",
+    "source": "LangChain official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
+    "bytes": 546
+  },
+  {
+    "label": "PydanticAI",
+    "popular_path": "popular/ai-agent--pydanticai.svg",
+    "source_path": "ai-agent/pydantic-ai.svg",
+    "source": "PydanticAI official light-background SVG",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/main/docs/img/pydantic-ai-light.svg",
+    "bytes": 4768
+  },
+  {
+    "label": "Semantic Kernel",
+    "popular_path": "popular/ai-agent--semantic-kernel.svg",
+    "source_path": "ai-agent/semantic-kernel.svg",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325
+  },
+  {
+    "label": "Google ADK",
+    "popular_path": "popular/ai-agent--google-adk.svg",
+    "source_path": "ai-agent/google-adk.svg",
+    "source": "logos:google-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:google-icon.svg",
+    "bytes": 978
+  },
+  {
+    "label": "AWS Bedrock Agents",
+    "popular_path": "popular/ai-agent--aws-bedrock-agents.svg",
+    "source_path": "ai-agent/aws-bedrock-agents.svg",
+    "source": "logos:aws",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:aws.svg",
+    "bytes": 3798
+  },
+  {
+    "label": "Azure AI Foundry Agent Service",
+    "popular_path": "popular/ai-agent--azure-ai-foundry-agent-service.svg",
+    "source_path": "ai-agent/azure-ai-foundry-agent-service.svg",
+    "source": "logos:microsoft-azure",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-azure.svg",
+    "bytes": 1542
+  },
+  {
+    "label": "n8n",
+    "popular_path": "popular/automation--n8n.svg",
+    "source_path": "automation/n8n.svg",
+    "source": "devicon:n8n-wordmark",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/devicon:n8n-wordmark.svg",
+    "bytes": 1928
+  },
+  {
+    "label": "Zapier",
+    "popular_path": "popular/automation--zapier.svg",
+    "source_path": "automation/zapier.svg",
+    "source": "logos:zapier",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:zapier.svg",
+    "bytes": 2531
+  },
+  {
+    "label": "Make",
+    "popular_path": "popular/automation--make.png",
+    "source_path": "automation/make.png",
+    "source": "Make primary logo from official brand guidelines",
+    "kind": "Official/direct asset",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Make_Logo.png",
+    "bytes": 23740
+  },
+  {
+    "label": "Microsoft Power Automate",
+    "popular_path": "popular/automation--microsoft-power-automate.svg",
+    "source_path": "automation/microsoft-power-automate.svg",
+    "source": "Microsoft Power Automate SVG",
+    "kind": "Official/direct asset",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg",
+    "bytes": 2221
+  },
+  {
+    "label": "Temporal",
+    "popular_path": "popular/automation--temporal.svg",
+    "source_path": "automation/temporal.svg",
+    "source": "https://temporal.io (icon)",
+    "kind": "Official site icon",
+    "url": "https://temporal.io/favicon.svg",
+    "bytes": 1722
+  },
+  {
+    "label": "Apache Airflow",
+    "popular_path": "popular/automation--apache-airflow.svg",
+    "source_path": "automation/apache-airflow.svg",
+    "source": "logos:airflow-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:airflow-icon.svg",
+    "bytes": 1742
+  },
+  {
+    "label": "Prefect",
+    "popular_path": "popular/automation--prefect.svg",
+    "source_path": "automation/prefect.svg",
+    "source": "Prefect official SVG mark",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/PrefectHQ/prefect/main/ui/src/assets/logos/prefect-logo-mark-gradient.svg",
+    "bytes": 1514
+  },
+  {
+    "label": "Kestra",
+    "popular_path": "popular/automation--kestra.svg",
+    "source_path": "automation/kestra.svg",
+    "source": "https://kestra.io (mask-icon)",
+    "kind": "Official site icon",
+    "url": "https://kestra.io/safari-pinned-tab.svg",
+    "bytes": 2357
+  },
+  {
+    "label": "Pipedream",
+    "popular_path": "popular/automation--pipedream.svg",
+    "source_path": "automation/pipedream.svg",
+    "source": "logos:pipedream",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:pipedream.svg",
+    "bytes": 4921
+  },
+  {
+    "label": "OpenWebUI",
+    "popular_path": "popular/ai-tools--openwebui.png",
+    "source_path": "ai-tools/openwebui.png",
+    "source": "Open WebUI official logo PNG",
+    "kind": "Official/direct asset",
+    "url": "https://openwebui.com/logo.png",
+    "bytes": 10108
+  },
+  {
+    "label": "ComfyUI",
+    "popular_path": "popular/ai-tools--comfyui.svg",
+    "source_path": "ai-tools/comfyui.svg",
+    "source": "ComfyUI official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://comfy.org/icons/logo.svg",
+    "bytes": 7411
+  },
+  {
+    "label": "Dify",
+    "popular_path": "popular/ai-tools--dify.svg",
+    "source_path": "ai-tools/dify.svg",
+    "source": "Dify official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://dify.ai/assets/dify-logo.svg",
+    "bytes": 1182
+  },
+  {
+    "label": "Flowise",
+    "popular_path": "popular/ai-tools--flowise.png",
+    "source_path": "ai-tools/flowise.png",
+    "source": "Flowise official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/FlowiseAI/Flowise/main/packages/ui/src/assets/images/flowise_logo.png",
+    "bytes": 7191
+  },
+  {
+    "label": "Langflow",
+    "popular_path": "popular/ai-tools--langflow.png",
+    "source_path": "ai-tools/langflow.png",
+    "source": "Langflow official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.langflow.org/images/logo.png",
+    "bytes": 5278
+  },
+  {
+    "label": "LiteLLM",
+    "popular_path": "popular/ai-tools--litellm.png",
+    "source_path": "ai-tools/litellm.png",
+    "source": "LiteLLM official site icon",
+    "kind": "Official/direct asset",
+    "url": "https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png",
+    "bytes": 2744
+  },
+  {
+    "label": "Gradio",
+    "popular_path": "popular/ai-tools--gradio.svg",
+    "source_path": "ai-tools/gradio.svg",
+    "source": "logos:gradio",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:gradio.svg",
+    "bytes": 3751
+  },
+  {
+    "label": "Streamlit",
+    "popular_path": "popular/ai-tools--streamlit.svg",
+    "source_path": "ai-tools/streamlit.svg",
+    "source": "logos:streamlit",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:streamlit.svg",
+    "bytes": 1286
+  },
+  {
+    "label": "Mastra",
+    "popular_path": "popular/ai-tools--mastra.png",
+    "source_path": "ai-tools/mastra.png",
+    "source": "Mastra official brand wordmark",
+    "kind": "Official/direct asset",
+    "url": "https://mastra.ai/brand/mastra-logo-wordmark.png",
+    "bytes": 25644
+  },
+  {
+    "label": "Vercel AI SDK",
+    "popular_path": "popular/ai-tools--vercel-ai-sdk.svg",
+    "source_path": "ai-tools/vercel-ai-sdk.svg",
+    "source": "Vercel AI SDK official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://ai-sdk.dev/_next/static/media/ai-sdk-light.0-.nn6z_67.-e.svg",
+    "bytes": 1242
+  },
+  {
+    "label": "Unsloth",
+    "popular_path": "popular/ai-tools--unsloth.png",
+    "source_path": "ai-tools/unsloth.png",
+    "source": "Unsloth official logo PNG",
+    "kind": "Official/direct asset",
+    "url": "https://unsloth.ai/cgi/image/unsloth_new_wb_logo_vnrA8AASj-jN5wy8UIYE-.png?format=raw",
+    "bytes": 1124507
+  },
+  {
+    "label": "OpenRouter",
+    "popular_path": "popular/ai-tools--openrouter.svg",
+    "source_path": "ai-tools/openrouter.svg",
+    "source": "OpenRouter official dark SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://openrouter.ai/brand/v2/openrouter-dark.svg",
+    "bytes": 4637
+  },
+  {
+    "label": "Cursor",
+    "popular_path": "popular/ai-tools--cursor.svg",
+    "source_path": "ai-tools/cursor.svg",
+    "source": "Cursor dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/cursor.svg",
+    "bytes": 548
+  },
+  {
+    "label": "Windsurf",
+    "popular_path": "popular/ai-tools--windsurf.svg",
+    "source_path": "ai-tools/windsurf.svg",
+    "source": "https://windsurf.com (icon)",
+    "kind": "Official site icon",
+    "url": "https://devin.ai/favicon.svg",
+    "bytes": 1403
+  },
+  {
+    "label": "Cline",
+    "popular_path": "popular/ai-tools--cline.png",
+    "source_path": "ai-tools/cline.png",
+    "source": "https://cline.bot (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cline.bot/assets/branding/favicons/apple-touch-icon.png",
+    "bytes": 6391
+  },
+  {
+    "label": "Continue",
+    "popular_path": "popular/ai-tools--continue.png",
+    "source_path": "ai-tools/continue.png",
+    "source": "https://www.continue.dev (icon)",
+    "kind": "Official site icon",
+    "url": "https://www.continue.dev/favicon.png",
+    "bytes": 29041
+  },
+  {
+    "label": "Label Studio",
+    "popular_path": "popular/ai-tools--label-studio.svg",
+    "source_path": "ai-tools/label-studio.svg",
+    "source": "https://labelstud.io (icon)",
+    "kind": "Official site icon",
+    "url": "https://labelstud.io/favicon.svg",
+    "bytes": 708
+  },
+  {
+    "label": "Docling",
+    "popular_path": "popular/ai-tools--docling.png",
+    "source_path": "ai-tools/docling.png",
+    "source": "https://docling-project.github.io/docling (icon)",
+    "kind": "Official site icon",
+    "url": "https://docling-project.github.io/docling/assets/logo.png",
+    "bytes": 240086
+  },
+  {
+    "label": "Jina AI",
+    "popular_path": "popular/ai-tools--jina-ai.png",
+    "source_path": "ai-tools/jina-ai.png",
+    "source": "https://jina.ai (apple-touch-startup-image)",
+    "kind": "Official site icon",
+    "url": "https://jina.ai/icons/apple-launch-1284x2778.png",
+    "bytes": 4599
+  },
+  {
+    "label": "Modal",
+    "popular_path": "popular/ai-infra--modal.svg",
+    "source_path": "ai-infra/modal.svg",
+    "source": "Modal official SVG logotype",
+    "kind": "Official/direct asset",
+    "url": "https://modal.com/_app/immutable/assets/logotype.CAx-nu9G.svg",
+    "bytes": 6640
+  },
+  {
+    "label": "Fireworks AI",
+    "popular_path": "popular/ai-infra--fireworks-ai.svg",
+    "source_path": "ai-infra/fireworks-ai.svg",
+    "source": "Fireworks AI official SVG wordmark",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.sanity.io/images/pv37i0yn/production/902311c0246831a4baf8f97f37a0709b7668d55f-2048x407.svg",
+    "bytes": 3653
+  },
+  {
+    "label": "Together AI",
+    "popular_path": "popular/ai-infra--together-ai.svg",
+    "source_path": "ai-infra/together-ai.svg",
+    "source": "Together AI official 2026 SVG horizontal lockup",
+    "kind": "Official/brand-package asset",
+    "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a6dad66e8b98c718262888_together-ai-logo-suite.zip",
+    "bytes": 3529
+  },
+  {
+    "label": "SGLang",
+    "popular_path": "popular/ai-infra--sglang.webp",
+    "source_path": "ai-infra/sglang.webp",
+    "source": "SGLang official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.sglang.io/images/logo.png",
+    "bytes": 109100
+  },
+  {
+    "label": "Ray Serve",
+    "popular_path": "popular/ai-infra--ray-serve.svg",
+    "source_path": "ai-infra/ray-serve.svg",
+    "source": "Ray official SVG favicon",
+    "kind": "Official/direct asset",
+    "url": "https://www.ray.io/favicon.svg",
+    "bytes": 152921
+  },
+  {
+    "label": "BentoML",
+    "popular_path": "popular/ai-infra--bentoml.svg",
+    "source_path": "ai-infra/bentoml.svg",
+    "source": "BentoML official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.bentoml.com/bentoml-logo.svg",
+    "bytes": 9897
+  },
+  {
+    "label": "llama.cpp",
+    "popular_path": "popular/ai-infra--llama-cpp.svg",
+    "source_path": "ai-infra/llama-cpp.svg",
+    "source": "https://github.com/ggml-org/llama.cpp (icon)",
+    "kind": "Official site icon",
+    "url": "https://github.githubassets.com/favicons/favicon.svg",
+    "bytes": 957
+  },
+  {
+    "label": "Hugging Face TGI",
+    "popular_path": "popular/ai-infra--hugging-face-tgi.svg",
+    "source_path": "ai-infra/hugging-face-tgi.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "TensorRT-LLM",
+    "popular_path": "popular/ai-infra--tensorrt-llm.svg",
+    "source_path": "ai-infra/tensorrt-llm.svg",
+    "source": "logos:nvidia",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:nvidia.svg",
+    "bytes": 1741
+  },
+  {
+    "label": "NVIDIA Triton",
+    "popular_path": "popular/ai-infra--nvidia-triton.png",
+    "source_path": "ai-infra/nvidia-triton.png",
+    "source": "NVIDIA Triton dashboard asset",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/nvidia_triton.png",
+    "bytes": 5022
+  },
+  {
+    "label": "KServe",
+    "popular_path": "popular/ai-infra--kserve.png",
+    "source_path": "ai-infra/kserve.png",
+    "source": "https://kserve.github.io/website (icon)",
+    "kind": "Official site icon",
+    "url": "https://kserve.github.io/website/img/favicon-32x32.png",
+    "bytes": 2272
+  },
+  {
+    "label": "Baseten",
+    "popular_path": "popular/ai-infra--baseten.svg",
+    "source_path": "ai-infra/baseten.svg",
+    "source": "Baseten dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/baseten.svg",
+    "bytes": 554
+  },
+  {
+    "label": "Replicate",
+    "popular_path": "popular/ai-infra--replicate.svg",
+    "source_path": "ai-infra/replicate.svg",
+    "source": "Replicate dashboard SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/BerriAI/litellm/main/ui/litellm-dashboard/public/assets/logos/replicate.svg",
+    "bytes": 308
+  },
+  {
+    "label": "Runpod",
+    "popular_path": "popular/ai-infra--runpod.png",
+    "source_path": "ai-infra/runpod.png",
+    "source": "https://www.runpod.io (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69e08b4ced16e020149fc61d_favicon_www_runpod_io_256x256.png",
+    "bytes": 3864
+  },
+  {
+    "label": "Hugging Face Accelerate",
+    "popular_path": "popular/training--hugging-face-accelerate.svg",
+    "source_path": "training/hugging-face-accelerate.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "Hugging Face TRL",
+    "popular_path": "popular/training--hugging-face-trl.svg",
+    "source_path": "training/hugging-face-trl.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "Hugging Face PEFT",
+    "popular_path": "popular/training--hugging-face-peft.svg",
+    "source_path": "training/hugging-face-peft.svg",
+    "source": "logos:hugging-face-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:hugging-face-icon.svg",
+    "bytes": 18846
+  },
+  {
+    "label": "Axolotl",
+    "popular_path": "popular/training--axolotl.png",
+    "source_path": "training/axolotl.png",
+    "source": "https://axolotl.ai (apple-touch-icon)",
+    "kind": "Official site icon",
+    "url": "https://cdn.prod.website-files.com/66f2f3706b85119e9ca7dbe3/66fc1e487db259ff282c3006_axolotl_webclip.png",
+    "bytes": 38450
+  },
+  {
+    "label": "DeepSpeed",
+    "popular_path": "popular/training--deepspeed.svg",
+    "source_path": "training/deepspeed.svg",
+    "source": "logos:microsoft-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:microsoft-icon.svg",
+    "bytes": 325
+  },
+  {
+    "label": "PyTorch Lightning",
+    "popular_path": "popular/training--pytorch-lightning.svg",
+    "source_path": "training/pytorch-lightning.svg",
+    "source": "https://lightning.ai (mask-icon)",
+    "kind": "Official site icon",
+    "url": "https://lightning.ai/favicon/safari-pinned-tab.svg",
+    "bytes": 1253
+  },
+  {
+    "label": "Pinecone",
+    "popular_path": "popular/vector-database--pinecone.svg",
+    "source_path": "vector-database/pinecone.svg",
+    "source": "logos:pinecone-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:pinecone-icon.svg",
+    "bytes": 1746
+  },
+  {
+    "label": "LanceDB",
+    "popular_path": "popular/vector-database--lancedb.svg",
+    "source_path": "vector-database/lancedb.svg",
+    "source": "LanceDB official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69ab0db86188576e86d098f7_89e64c892e91417e1a9ff9ecbda3545f_lanceDB_logo.svg",
+    "bytes": 25345
+  },
+  {
+    "label": "FAISS",
+    "popular_path": "popular/vector-database--faiss.svg",
+    "source_path": "vector-database/faiss.svg",
+    "source": "logos:meta-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meta-icon.svg",
+    "bytes": 2183
+  },
+  {
+    "label": "OpenSearch",
+    "popular_path": "popular/vector-database--opensearch.svg",
+    "source_path": "vector-database/opensearch.svg",
+    "source": "logos:opensearch",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:opensearch.svg",
+    "bytes": 4803
+  },
+  {
+    "label": "Meilisearch",
+    "popular_path": "popular/vector-database--meilisearch.svg",
+    "source_path": "vector-database/meilisearch.svg",
+    "source": "logos:meilisearch",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:meilisearch.svg",
+    "bytes": 1108
+  },
+  {
+    "label": "Weaviate",
+    "popular_path": "popular/vector-database--weaviate.svg",
+    "source_path": "vector-database/weaviate.svg",
+    "source": "Weaviate official 2026 logo",
+    "kind": "Official/direct asset",
+    "url": "https://weaviate.io/img/site/2026/weaviate-logo-2-colours-dark-green.svg",
+    "bytes": 15621
+  },
+  {
+    "label": "Qdrant",
+    "popular_path": "popular/vector-database--qdrant.svg",
+    "source_path": "vector-database/qdrant.svg",
+    "source": "logos:qdrant-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:qdrant-icon.svg",
+    "bytes": 1368
+  },
+  {
+    "label": "Milvus",
+    "popular_path": "popular/vector-database--milvus.svg",
+    "source_path": "vector-database/milvus.svg",
+    "source": "logos:milvus-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:milvus-icon.svg",
+    "bytes": 767
+  },
+  {
+    "label": "Chroma",
+    "popular_path": "popular/vector-database--chroma.svg",
+    "source_path": "vector-database/chroma.svg",
+    "source": "logos:chroma",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:chroma.svg",
+    "bytes": 373
+  },
+  {
+    "label": "pgvector",
+    "popular_path": "popular/vector-database--pgvector.svg",
+    "source_path": "vector-database/pgvector.svg",
+    "source": "logos:postgresql",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:postgresql.svg",
+    "bytes": 6739
+  },
+  {
+    "label": "Elasticsearch",
+    "popular_path": "popular/vector-database--elasticsearch.svg",
+    "source_path": "vector-database/elasticsearch.svg",
+    "source": "logos:elasticsearch",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:elasticsearch.svg",
+    "bytes": 660
+  },
+  {
+    "label": "Redis",
+    "popular_path": "popular/vector-database--redis.svg",
+    "source_path": "vector-database/redis.svg",
+    "source": "logos:redis",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:redis.svg",
+    "bytes": 2676
+  },
+  {
+    "label": "MongoDB Atlas Vector Search",
+    "popular_path": "popular/vector-database--mongodb-atlas-vector-search.svg",
+    "source_path": "vector-database/mongodb-atlas-vector-search.svg",
+    "source": "logos:mongodb-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:mongodb-icon.svg",
+    "bytes": 569
+  }
+]
