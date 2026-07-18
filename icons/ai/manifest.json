@@ -62,7 +62,7 @@
     "kind": "Official/direct asset",
     "url": "https://cohere.com/nav_icon.svg",
     "finalUrl": "https://cohere.com/nav_icon.svg",
-    "bytes": 1667,
+    "bytes": 1668,
     "contentType": "image/svg+xml"
   },
   {
@@ -106,7 +106,7 @@
     "kind": "Official/direct asset",
     "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
     "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
-    "bytes": 1036,
+    "bytes": 1037,
     "contentType": "image/svg+xml"
   },
   {
@@ -128,7 +128,7 @@
     "kind": "Official/direct asset",
     "url": "https://microsoft.github.io/autogen/stable/_static/logo.svg",
     "finalUrl": "https://microsoft.github.io/autogen/stable/_static/logo.svg",
-    "bytes": 1776,
+    "bytes": 1777,
     "contentType": "image/svg+xml"
   },
   {
@@ -161,7 +161,7 @@
     "kind": "Official site icon",
     "url": "https://strandsagents.com/favicon.svg",
     "finalUrl": "https://strandsagents.com/favicon.svg",
-    "bytes": 2017,
+    "bytes": 2041,
     "contentType": "image/svg+xml"
   },
   {
@@ -194,7 +194,7 @@
     "kind": "Official/direct asset",
     "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
     "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
-    "bytes": 545,
+    "bytes": 546,
     "contentType": "image/svg+xml"
   },
   {
@@ -227,7 +227,7 @@
     "kind": "Official/direct asset",
     "url": "https://dspy.ai/static/dspy-logo.svg",
     "finalUrl": "https://dspy.ai/static/dspy-logo.svg",
-    "bytes": 4708,
+    "bytes": 4741,
     "contentType": "image/svg+xml"
   },
   {
@@ -238,7 +238,7 @@
     "kind": "Official site icon",
     "url": "https://ragflow.io/img/logo.svg",
     "finalUrl": "https://ragflow.io/img/logo.svg",
-    "bytes": 3722,
+    "bytes": 3723,
     "contentType": "image/svg+xml"
   },
   {
@@ -293,7 +293,7 @@
     "kind": "Official/direct asset",
     "url": "https://cohere.com/nav_icon.svg",
     "finalUrl": "https://cohere.com/nav_icon.svg",
-    "bytes": 1667,
+    "bytes": 1668,
     "contentType": "image/svg+xml"
   },
   {
@@ -304,7 +304,7 @@
     "kind": "Official site icon",
     "url": "https://www.voyageai.com/icon.svg",
     "finalUrl": "https://www.voyageai.com/icon.svg",
-    "bytes": 5690,
+    "bytes": 5691,
     "contentType": "image/svg+xml"
   },
   {
@@ -352,6 +352,61 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "PyTorch",
+    "path": "ml-framework/pytorch.svg",
+    "status": "downloaded",
+    "source": "logos:pytorch-icon",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:pytorch-icon.svg",
+    "finalUrl": "https://api.iconify.design/logos:pytorch-icon.svg",
+    "bytes": 591,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "TensorFlow",
+    "path": "ml-framework/tensorflow.svg",
+    "status": "downloaded",
+    "source": "logos:tensorflow",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:tensorflow.svg",
+    "finalUrl": "https://api.iconify.design/logos:tensorflow.svg",
+    "bytes": 692,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "JAX",
+    "path": "ml-framework/jax.svg",
+    "status": "downloaded",
+    "source": "JAX SVG logo sourced from official JAX repo",
+    "kind": "Official/direct asset",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg",
+    "finalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg",
+    "bytes": 3976,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Keras",
+    "path": "ml-framework/keras.png",
+    "status": "downloaded",
+    "source": "Keras official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://keras.io/img/logo.png",
+    "finalUrl": "https://keras.io/img/logo.png",
+    "bytes": 33314,
+    "contentType": "image/png"
+  },
+  {
+    "label": "ONNX Runtime",
+    "path": "ml-framework/onnx-runtime.svg",
+    "status": "downloaded",
+    "source": "ONNX Runtime official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://onnxruntime.ai/images/ONNX-Runtime-logo.svg",
+    "finalUrl": "https://onnxruntime.ai/images/ONNX-Runtime-logo.svg",
+    "bytes": 9520,
+    "contentType": "image/svg+xml"
+  },
+  {
     "label": "MCP SDK",
     "path": "mcp/mcp-sdk.svg",
     "status": "downloaded",
@@ -359,7 +414,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
     "finalUrl": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
-    "bytes": 1084,
+    "bytes": 1085,
     "contentType": "image/svg+xml"
   },
   {
@@ -370,7 +425,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/favicon-light.svg",
     "finalUrl": "https://raw.githubusercontent.com/PrefectHQ/fastmcp/main/docs/assets/brand/favicon-light.svg",
-    "bytes": 858,
+    "bytes": 859,
     "contentType": "image/svg+xml"
   },
   {
@@ -381,7 +436,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
     "finalUrl": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
-    "bytes": 1084,
+    "bytes": 1085,
     "contentType": "image/svg+xml"
   },
   {
@@ -436,7 +491,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
     "finalUrl": "https://raw.githubusercontent.com/modelcontextprotocol/modelcontextprotocol/main/docs/favicon.svg",
-    "bytes": 1084,
+    "bytes": 1085,
     "contentType": "image/svg+xml"
   },
   {
@@ -458,7 +513,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/guardrails-ai/guardrails/main/docs/assets/Guardrails-ai-logo-for-white-bg.svg",
     "finalUrl": "https://raw.githubusercontent.com/guardrails-ai/guardrails/main/docs/assets/Guardrails-ai-logo-for-white-bg.svg",
-    "bytes": 13841,
+    "bytes": 13842,
     "contentType": "image/svg+xml"
   },
   {
@@ -491,7 +546,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/prompt-security/ps-fuzz/main/resources/prompt-icon.svg",
     "finalUrl": "https://raw.githubusercontent.com/prompt-security/ps-fuzz/main/resources/prompt-icon.svg",
-    "bytes": 1449,
+    "bytes": 1450,
     "contentType": "image/svg+xml"
   },
   {
@@ -535,7 +590,7 @@
     "kind": "Official/direct asset",
     "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698afeb61612bb3b1af6e9ee_Frame%202147254707.svg",
     "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698afeb61612bb3b1af6e9ee_Frame%202147254707.svg",
-    "bytes": 1006,
+    "bytes": 1007,
     "contentType": "image/svg+xml"
   },
   {
@@ -546,7 +601,18 @@
     "kind": "Official/direct asset",
     "url": "https://langfuse.com/langfuse-wordart.svg",
     "finalUrl": "https://langfuse.com/langfuse-wordart.svg",
-    "bytes": 7432,
+    "bytes": 7433,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "MLflow",
+    "path": "observability/mlflow.svg",
+    "status": "downloaded",
+    "source": "MLflow official black SVG",
+    "kind": "Official/direct asset",
+    "url": "https://mlflow.org/img/mlflow-black.svg",
+    "finalUrl": "https://mlflow.org/img/mlflow-black.svg",
+    "bytes": 2605,
     "contentType": "image/svg+xml"
   },
   {
@@ -559,6 +625,17 @@
     "finalUrl": "https://raw.githubusercontent.com/Arize-ai/phoenix/main/docs/logo/dark.png",
     "bytes": 12747,
     "contentType": "image/png"
+  },
+  {
+    "label": "Weights & Biases",
+    "path": "observability/weights-biases.svg",
+    "status": "downloaded",
+    "source": "Weights & Biases official SVG",
+    "kind": "Official/direct asset",
+    "url": "https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg",
+    "finalUrl": "https://site.wandb.ai/wp-content/uploads/2023/05/wb-cw.svg",
+    "bytes": 29311,
+    "contentType": "image/svg+xml"
   },
   {
     "label": "Weights & Biases Weave",
@@ -579,7 +656,7 @@
     "kind": "Official site icon",
     "url": "https://www.trulens.org/assets/favicon/safari-pinned-tab.svg",
     "finalUrl": "https://www.trulens.org/assets/favicon/safari-pinned-tab.svg",
-    "bytes": 6141,
+    "bytes": 6145,
     "contentType": "image/svg+xml"
   },
   {
@@ -590,7 +667,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/logo-black.svg",
     "finalUrl": "https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/logo-black.svg",
-    "bytes": 3677,
+    "bytes": 3678,
     "contentType": "image/svg+xml"
   },
   {
@@ -601,7 +678,18 @@
     "kind": "Official/direct asset",
     "url": "https://www.promptfoo.dev/img/logo-panda.svg",
     "finalUrl": "https://www.promptfoo.dev/img/logo-panda.svg",
-    "bytes": 8066,
+    "bytes": 8132,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Braintrust",
+    "path": "observability/braintrust.svg",
+    "status": "downloaded",
+    "source": "Braintrust official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.braintrust.dev/braintrust-logo.svg",
+    "finalUrl": "https://www.braintrust.dev/braintrust-logo.svg",
+    "bytes": 3676,
     "contentType": "image/svg+xml"
   },
   {
@@ -634,7 +722,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/getzep/zep/main/assets/zep-logo-icon-gradient-rgb.svg",
     "finalUrl": "https://raw.githubusercontent.com/getzep/zep/main/assets/zep-logo-icon-gradient-rgb.svg",
-    "bytes": 1691,
+    "bytes": 1737,
     "contentType": "image/svg+xml"
   },
   {
@@ -656,7 +744,7 @@
     "kind": "Official/direct asset",
     "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
     "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b268612e91affecd414_Frame%202147254720.svg",
-    "bytes": 1036,
+    "bytes": 1037,
     "contentType": "image/svg+xml"
   },
   {
@@ -722,7 +810,7 @@
     "kind": "Official/direct asset",
     "url": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
     "finalUrl": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/698b2b26acc19233c104b1cd_logo.svg",
-    "bytes": 545,
+    "bytes": 546,
     "contentType": "image/svg+xml"
   },
   {
@@ -733,7 +821,7 @@
     "kind": "Official/direct asset",
     "url": "https://raw.githubusercontent.com/pydantic/pydantic-ai/main/docs/img/pydantic-ai-light.svg",
     "finalUrl": "https://raw.githubusercontent.com/pydantic/pydantic-ai/main/docs/img/pydantic-ai-light.svg",
-    "bytes": 4767,
+    "bytes": 4768,
     "contentType": "image/svg+xml"
   },
   {
@@ -821,7 +909,7 @@
     "kind": "Official/direct asset",
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg",
     "finalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg",
-    "bytes": 2220,
+    "bytes": 2221,
     "contentType": "image/svg+xml"
   },
   {
@@ -832,7 +920,7 @@
     "kind": "Official site icon",
     "url": "https://temporal.io/favicon.svg",
     "finalUrl": "https://temporal.io/favicon.svg",
-    "bytes": 1721,
+    "bytes": 1722,
     "contentType": "image/svg+xml"
   },
   {
@@ -865,7 +953,7 @@
     "kind": "Official site icon",
     "url": "https://kestra.io/safari-pinned-tab.svg",
     "finalUrl": "https://kestra.io/safari-pinned-tab.svg",
-    "bytes": 2353,
+    "bytes": 2357,
     "contentType": "image/svg+xml"
   },
   {
@@ -880,6 +968,204 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "OpenWebUI",
+    "path": "ai-tools/openwebui.png",
+    "status": "downloaded",
+    "source": "Open WebUI official logo PNG",
+    "kind": "Official/direct asset",
+    "url": "https://openwebui.com/logo.png",
+    "finalUrl": "https://openwebui.com/logo.png",
+    "bytes": 10108,
+    "contentType": "image/png"
+  },
+  {
+    "label": "ComfyUI",
+    "path": "ai-tools/comfyui.svg",
+    "status": "downloaded",
+    "source": "ComfyUI official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://comfy.org/icons/logo.svg",
+    "finalUrl": "https://comfy.org/icons/logo.svg",
+    "bytes": 7411,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Dify",
+    "path": "ai-tools/dify.svg",
+    "status": "downloaded",
+    "source": "Dify official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://dify.ai/assets/dify-logo.svg",
+    "finalUrl": "https://dify.ai/assets/dify-logo.svg",
+    "bytes": 1182,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Flowise",
+    "path": "ai-tools/flowise.png",
+    "status": "downloaded",
+    "source": "Flowise official repo logo",
+    "kind": "Official/direct asset",
+    "url": "https://raw.githubusercontent.com/FlowiseAI/Flowise/main/packages/ui/src/assets/images/flowise_logo.png",
+    "finalUrl": "https://raw.githubusercontent.com/FlowiseAI/Flowise/main/packages/ui/src/assets/images/flowise_logo.png",
+    "bytes": 7191,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Langflow",
+    "path": "ai-tools/langflow.png",
+    "status": "downloaded",
+    "source": "Langflow official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.langflow.org/images/logo.png",
+    "finalUrl": "https://www.langflow.org/images/logo.png",
+    "bytes": 5278,
+    "contentType": "image/png"
+  },
+  {
+    "label": "LiteLLM",
+    "path": "ai-tools/litellm.png",
+    "status": "downloaded",
+    "source": "LiteLLM official site icon",
+    "kind": "Official/direct asset",
+    "url": "https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png",
+    "finalUrl": "https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png",
+    "bytes": 2744,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Gradio",
+    "path": "ai-tools/gradio.svg",
+    "status": "downloaded",
+    "source": "logos:gradio",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:gradio.svg",
+    "finalUrl": "https://api.iconify.design/logos:gradio.svg",
+    "bytes": 3751,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Streamlit",
+    "path": "ai-tools/streamlit.svg",
+    "status": "downloaded",
+    "source": "logos:streamlit",
+    "kind": "Iconify color SVG",
+    "url": "https://api.iconify.design/logos:streamlit.svg",
+    "finalUrl": "https://api.iconify.design/logos:streamlit.svg",
+    "bytes": 1286,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Mastra",
+    "path": "ai-tools/mastra.png",
+    "status": "downloaded",
+    "source": "Mastra official brand wordmark",
+    "kind": "Official/direct asset",
+    "url": "https://mastra.ai/brand/mastra-logo-wordmark.png",
+    "finalUrl": "https://mastra.ai/brand/mastra-logo-wordmark.png",
+    "bytes": 25644,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Vercel AI SDK",
+    "path": "ai-tools/vercel-ai-sdk.svg",
+    "status": "downloaded",
+    "source": "Vercel AI SDK official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://ai-sdk.dev/_next/static/media/ai-sdk-light.0-.nn6z_67.-e.svg",
+    "finalUrl": "https://ai-sdk.dev/_next/static/media/ai-sdk-light.0-.nn6z_67.-e.svg",
+    "bytes": 1242,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Unsloth",
+    "path": "ai-tools/unsloth.png",
+    "status": "downloaded",
+    "source": "Unsloth official logo PNG",
+    "kind": "Official/direct asset",
+    "url": "https://unsloth.ai/cgi/image/unsloth_new_wb_logo_vnrA8AASj-jN5wy8UIYE-.png?format=raw",
+    "finalUrl": "https://unsloth.ai/cgi/image/unsloth_new_wb_logo_vnrA8AASj-jN5wy8UIYE-.png?format=raw",
+    "bytes": 1124507,
+    "contentType": "image/png"
+  },
+  {
+    "label": "OpenRouter",
+    "path": "ai-tools/openrouter.svg",
+    "status": "downloaded",
+    "source": "OpenRouter official dark SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://openrouter.ai/brand/v2/openrouter-dark.svg",
+    "finalUrl": "https://openrouter.ai/brand/v2/openrouter-dark.svg",
+    "bytes": 4637,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Modal",
+    "path": "ai-infra/modal.svg",
+    "status": "downloaded",
+    "source": "Modal official SVG logotype",
+    "kind": "Official/direct asset",
+    "url": "https://modal.com/_app/immutable/assets/logotype.CAx-nu9G.svg",
+    "finalUrl": "https://modal.com/_app/immutable/assets/logotype.CAx-nu9G.svg",
+    "bytes": 6640,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Fireworks AI",
+    "path": "ai-infra/fireworks-ai.svg",
+    "status": "downloaded",
+    "source": "Fireworks AI official SVG wordmark",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.sanity.io/images/pv37i0yn/production/902311c0246831a4baf8f97f37a0709b7668d55f-2048x407.svg",
+    "finalUrl": "https://cdn.sanity.io/images/pv37i0yn/production/902311c0246831a4baf8f97f37a0709b7668d55f-2048x407.svg",
+    "bytes": 3653,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "Together AI",
+    "path": "ai-infra/together-ai.svg",
+    "status": "downloaded",
+    "source": "Together AI official 2026 SVG horizontal lockup",
+    "kind": "Official/brand-package asset",
+    "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a6dad66e8b98c718262888_together-ai-logo-suite.zip",
+    "finalUrl": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a6dad66e8b98c718262888_together-ai-logo-suite.zip#Together AI Logo Suite/SVG/Color+Black/TogetherAI_Logo_021026_Horizontal Lockup.svg",
+    "bytes": 3529,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "SGLang",
+    "path": "ai-infra/sglang.webp",
+    "status": "downloaded",
+    "source": "SGLang official site logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.sglang.io/images/logo.png",
+    "finalUrl": "https://www.sglang.io/images/logo.png",
+    "bytes": 109100,
+    "contentType": "image/png"
+  },
+  {
+    "label": "Ray Serve",
+    "path": "ai-infra/ray-serve.svg",
+    "status": "downloaded",
+    "source": "Ray official SVG favicon",
+    "kind": "Official/direct asset",
+    "url": "https://www.ray.io/favicon.svg",
+    "finalUrl": "https://www.ray.io/favicon.svg",
+    "bytes": 152921,
+    "contentType": "image/svg+xml"
+  },
+  {
+    "label": "BentoML",
+    "path": "ai-infra/bentoml.svg",
+    "status": "downloaded",
+    "source": "BentoML official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://www.bentoml.com/bentoml-logo.svg",
+    "finalUrl": "https://www.bentoml.com/bentoml-logo.svg",
+    "bytes": 9897,
+    "contentType": "image/svg+xml"
+  },
+  {
     "label": "Pinecone",
     "path": "vector-database/pinecone.svg",
     "status": "downloaded",
@@ -891,6 +1177,17 @@
     "contentType": "image/svg+xml"
   },
   {
+    "label": "LanceDB",
+    "path": "vector-database/lancedb.svg",
+    "status": "downloaded",
+    "source": "LanceDB official SVG logo",
+    "kind": "Official/direct asset",
+    "url": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69ab0db86188576e86d098f7_89e64c892e91417e1a9ff9ecbda3545f_lanceDB_logo.svg",
+    "finalUrl": "https://cdn.prod.website-files.com/69a866b324926425eccc4cf5/69ab0db86188576e86d098f7_89e64c892e91417e1a9ff9ecbda3545f_lanceDB_logo.svg",
+    "bytes": 25345,
+    "contentType": "image/svg+xml"
+  },
+  {
     "label": "Weaviate",
     "path": "vector-database/weaviate.svg",
     "status": "downloaded",
@@ -898,7 +1195,7 @@
     "kind": "Official/direct asset",
     "url": "https://weaviate.io/img/site/2026/weaviate-logo-2-colours-dark-green.svg",
     "finalUrl": "https://weaviate.io/img/site/2026/weaviate-logo-2-colours-dark-green.svg",
-    "bytes": 15620,
+    "bytes": 15621,
     "contentType": "image/svg+xml"
   },
   {
