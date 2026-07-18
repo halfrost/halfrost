@@ -1,6 +1,6 @@
 # Machine Learning Systems, Alignment, and Evaluation
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_2.png)
 
 I am a **research-oriented machine learning systems engineer** working on **foundation model infrastructure, alignment, and evaluation**. I build efficient and reliable systems for large language models while studying the algorithms and data choices that make them more useful, controllable, and cost-effective in real applications.
 
